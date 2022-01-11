@@ -1,4 +1,4 @@
-# Mobile App Landing
-# Responsive Design
- HTML5 | CSS3 | JS Function | Responsive Design
-# Create App Landing Page
+# Mobile App Landing | Create App Landing Page
+ Responsive Design | Clean & Modern Design
+ HTML5 | CSS3 | JS Function 
+
